@@ -14,9 +14,9 @@
 
 
 ##Sreenidhi Madala
-1. Hobbies
-2. Favourite Places
-3. Singing
+* Hobbies
+* Favourite Places
+* Singing
 
 
 ##Felipe Medina Sato
