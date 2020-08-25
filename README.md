@@ -14,10 +14,9 @@
 
 
 ##Sreenidhi Madala
-
-
-
-
+1. Hobbies
+2. Favourite Places
+3. Singing
 
 
 ##Felipe Medina Sato
