@@ -2,11 +2,9 @@
 
 
 ##Blake Bennett
-
-
-
-
-
+* Soccer
+* Golf
+* Disc Golf
 
 ##Stephen Burke
 
