@@ -5,6 +5,7 @@
 * Soccer
 * Golf
 * Disc Golf
+* [Blake's GitHub Profile](https://github.com/bben6087)
 
 ## Stephen Burke
 * Biking
