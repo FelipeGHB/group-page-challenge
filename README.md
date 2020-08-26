@@ -17,6 +17,7 @@
 * Hobbies
 * Favourite Places
 * Singing
+* [Sreenidhi's GitHub Profile](https://github.com/Sreenidhi17)
 
 ## Felipe Medina Sato
 - COVID-19
