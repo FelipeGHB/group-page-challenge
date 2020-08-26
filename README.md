@@ -8,16 +8,14 @@
 
 ##Stephen Burke
 
-
-
-
-
+* Biking
+* Whiskey
+* Smithing
 
 ##Sreenidhi Madala
 * Hobbies
 * Favourite Places
 * Singing
-
 
 ##Felipe Medina Sato
 - COVID-19
